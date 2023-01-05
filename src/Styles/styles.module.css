@@ -1,0 +1,9 @@
+.heading {
+    color: rgb(56, 201, 12);
+    display: flex;
+    justify-content: center;
+}
+
+.para {
+    font-size: 1rem;
+}
